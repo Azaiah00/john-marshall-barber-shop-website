@@ -42,3 +42,8 @@ All photographs come from the business's own public Instagram/Facebook. **The ow
 
 ## Proposed domain
 **johnmarshallbarbershop.com**: the shop's former domain, now lapsed. Pitch: "we'll bring your address back."
+
+
+## Live preview domain (updated 27 Sep 2026)
+The site is live at https://john-marshall-barbershop-website.netlify.app/ and every canonical URL, Open Graph/Twitter tag, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this address.
+When the owner's own domain (johnmarshallbarbershop.com) is connected in Netlify, find-and-replace `john-marshall-barbershop-website.netlify.app` with `johnmarshallbarbershop.com` across the .html/.xml/.txt/.toml files, then redeploy.

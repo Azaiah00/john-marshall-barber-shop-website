@@ -16,4 +16,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://johnmarshallbarbershop.com/sitemap.xml
+Sitemap: https://john-marshall-barbershop-website.netlify.app/sitemap.xml

@@ -8,7 +8,7 @@
 - Founded: 1929 (opened around the day of the stock market crash; a haircut cost 50 cents)
 - Address: 502 E Franklin St, Richmond, VA 23219, United States (ground floor, Franklin Street side of the Hotel John Marshall building, at 5th & Franklin)
 - Phone: (804) 649-7577
-- Website: https://johnmarshallbarbershop.com/
+- Website: https://john-marshall-barbershop-website.netlify.app/
 - Facebook: https://www.facebook.com/thejohnmarshallbarbershop/
 - Directions: https://www.google.com/maps/search/?api=1&query=John+Marshall+Barber+Shop+502+E+Franklin+St+Richmond+VA
 - Google rating: 4.4 out of 5 from 135 reviews
@@ -50,7 +50,7 @@
 - How far is it from the Capitol? A few blocks; walk west on Franklin Street from Capitol Square to 5th Street.
 
 ## Pages
-- Home: https://johnmarshallbarbershop.com/
-- Services & prices: https://johnmarshallbarbershop.com/services.html
-- History: https://johnmarshallbarbershop.com/history.html
-- Hours & directions: https://johnmarshallbarbershop.com/visit.html
+- Home: https://john-marshall-barbershop-website.netlify.app/
+- Services & prices: https://john-marshall-barbershop-website.netlify.app/services.html
+- History: https://john-marshall-barbershop-website.netlify.app/history.html
+- Hours & directions: https://john-marshall-barbershop-website.netlify.app/visit.html
